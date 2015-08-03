@@ -1,0 +1,20 @@
+{
+  "name": "aviogram/dal",
+  "description": "Database Abstraction Layer",
+  "minimum-stability": "dev",
+  "license": "BSD-4-Clause",
+  "authors": [
+    {
+      "name": "Jesper Dolieslager",
+      "email": "aviogram@gmail.com"
+    }
+  ],
+  "require": {
+    "aviogram/common": "dev-master"
+  },
+  "autoload" : {
+    "psr-4" : {
+      "Aviogram\\DAL\\" : "src/"
+    }
+  }
+}
