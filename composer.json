@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "aviogram/common": "dev-master"
+    "aviogram/common": "~0.1"
   },
   "autoload" : {
     "psr-4" : {
